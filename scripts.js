@@ -3,7 +3,7 @@ $(document).ready(function(){
     dots: false,
     accessibility: true,
     arrows: true,
-    infinite: false,
+    infinite: true,
     speed: 500,
     centerMode: false,
     slidesToShow: 10,
@@ -18,7 +18,7 @@ $(document).ready(function(){
         settings: {
           slidesToShow: 3,
           slidesToScroll: 3,
-          infinite: false,
+          infinite: true,
           dots: false
         }
       },
