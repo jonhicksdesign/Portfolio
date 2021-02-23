@@ -34,9 +34,9 @@ header h2 {
   position: relative;
   color: white; }
 
-  .row-top {
-    padding: 50px 0;
-    min-height: 200px;}
+.row-top {
+  padding: 50px 0;
+  min-height: 200px;}
 
 .row-content {
   padding: 50px 0;
@@ -63,7 +63,6 @@ header h2 {
 
 .item {
   height: 100px;
-    
 }
 
 

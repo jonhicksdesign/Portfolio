@@ -94,7 +94,7 @@
 [dir='rtl'] .slick-next
 {
     right: auto;
-    left: -25px;
+    left: auto;
 }
 .slick-next:before
 {
@@ -124,7 +124,7 @@
 
     list-style: none;
 
-    text-align: center;
+    text-align: left;
 }
 .slick-dots li
 {
